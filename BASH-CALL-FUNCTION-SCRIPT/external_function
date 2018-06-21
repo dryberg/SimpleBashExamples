@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+print_external_variable() {
+  echo "This message is coming from the initial bash script, Message: $str"
+}
